@@ -1,0 +1,28 @@
+.head-banner{
+    
+    background-color: black;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    background-image: url(banner.webp);
+    background-size: cover;
+    background-position: center;
+    background-size: 100% 100%;
+}
+.centrato{
+    width: 100%;
+
+
+}
+.icone{
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+
+}
+
+@media screen and (min-width: 768px) {
+    .head-banner{
+        padding-top: 12rem;
+        padding-bottom: 12rem;
+    }
+    
+}
