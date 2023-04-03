@@ -1,0 +1,27 @@
+.head-banner{
+    
+    background-color: black;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    background-image: url(banner.webp);
+    background-size: cover;
+    background-position: 50% 10%;
+}
+.centrato{
+    width: 100%;
+    font-family: "Lucida Console", "Courier New", monospace;
+
+}
+.icone{
+    padding-top: 20rem;
+    padding-bottom: 20rem;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+@media screen and (min-width: 768px) {
+    .head-banner{
+        padding-top: 8rem;
+        padding-bottom: 8rem;
+    }
+    
+}
