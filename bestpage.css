@@ -1,9 +1,13 @@
+
+
+
+
 .head-banner{
     
     background-color: black;
     padding-top: 12rem;
     padding-bottom: 12rem;
-    background-image: url(https://cdn.wallpapersafari.com/31/87/1MTHAb.jpg);
+    background-image: url();
     background-size: cover;
     background-position: center;
 }
@@ -15,10 +19,10 @@
 }
 .shitpost{
 
-    background-color: black;
+    
     padding-top: 20rem;
     padding-bottom: 20rem;
-    background-image: url(giffig.gif);
+    background-image: url();
     background-size: cover;
     background-position: 50% 10%;
     color: red
@@ -26,8 +30,8 @@
 
 }
 .icone{
-    padding-top: 10rem;
-    padding-bottom: 10rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
     font-family: "Lucida Console", "Courier New", monospace;
     background-color: #1c87c9;
 }
@@ -40,10 +44,3 @@
     
 }
 
-.video{
-        padding-top: 2rem;
-        padding-bottom: 2rem;
-    
-    
-
-}
